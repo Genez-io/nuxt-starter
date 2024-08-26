@@ -1,4 +1,4 @@
 # The name of the project.
-name: nitro-template-genezio
+name: nuxt-template-genezio
 # The version of the Genezio YAML configuration to parse.
 yamlVersion: 2
